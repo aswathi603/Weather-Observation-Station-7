@@ -10,7 +10,7 @@ The STATION table is described as follows:
 
                           STATION
 
-                    Field	                  Type
+                    Field	                 Type
                     ID	                    NUMBER
                     CITY                  	VARCHAR2(21)
                     STATE                  	VARCHAR2(2)
